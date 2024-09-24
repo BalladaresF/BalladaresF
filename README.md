@@ -9,6 +9,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balladaresf&show_icons=true&locale=en&layout=compact" alt="balladaresf" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balladaresf&show_icons=true&locale=en" alt="balladaresf" /></p>
+
 <!--
 **BalladaresF/BalladaresF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
