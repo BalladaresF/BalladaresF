@@ -2,7 +2,7 @@
 
 - 🔭 Estoy actualmente realizando proyectos.
 - 🌱 Actualmente aprendiendo sobre machine learning.
-- 👯 Enlace de Linkedin: (Linkedin)[https://www.linkedin.com/in/andr%C3%A9s-balladares-flores-3251b7259/]
+- 👯 Enlace de Linkedin: [Linkedin](https://www.linkedin.com/in/andr%C3%A9s-balladares-flores-3251b7259/)
 
 <!--
 **BalladaresF/BalladaresF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
