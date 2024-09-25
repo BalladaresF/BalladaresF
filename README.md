@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋</h1>
 
-- 🔭 Estoy actualmente realizando proyectos.
-- 🌱 Actualmente aprendiendo sobre machine learning.
+- 🔭 Estoy realizando proyectos.
+- 🌱 Actualmente aprendiendo sobre machine learning con PyTorch.
 - 👯 Enlace de Linkedin: [Linkedin](https://www.linkedin.com/in/andr%C3%A9s-balladares-flores-3251b7259/)
 
 <h3 align="center">~ ~ ~ ~ ~ Lenguajes y herramientas ~ ~ ~ ~ ~</h3>
