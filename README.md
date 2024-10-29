@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋</h1>
+<h1 align="center">Hello / Hola 👋</h1>
 
 - 🔭 Estoy realizando proyectos.
 - 🌱 Actualmente aprendiendo sobre machine learning con PyTorch.
